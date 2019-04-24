@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1066307736024",
+    "firebase_url": "https://questiongame-4ca43.firebaseio.com",
+    "project_id": "questiongame-4ca43",
+    "storage_bucket": "questiongame-4ca43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066307736024:android:3d4f87c25dd8bb2d",
+        "android_client_info": {
+          "package_name": "com.example.bhathiya.questiongame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1066307736024-jjtdv6kdr7mbbg47pqq1fi6epm4smg4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxj7OJxc7WqDue-dxvQ6fiXeW6GGJ_5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1066307736024-jjtdv6kdr7mbbg47pqq1fi6epm4smg4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
